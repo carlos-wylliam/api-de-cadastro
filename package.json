@@ -1,0 +1,15 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Essa é a minha primeira API utilizando express, essa API foi criado como proposta de estudo logo é apenas uma simulação de um sistema. Nesse sistema é possivel cadastrar aulas e instrutores como tambem possibilita a opção de remover e atualizar tantos os instrutores quanto as aulas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
